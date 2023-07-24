@@ -1,0 +1,92 @@
+body {
+    font-family: 'Roboto Serif', serif;
+}
+
+
+#title {
+    background-color: #E2EAEA;
+}
+
+h1 {
+    color: #634150;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 0.1em;
+}
+
+h2, h3 {
+    color: #634150;
+    font-family: 'Montserrat', sans-serif;    
+}
+
+h4 {
+    color: #1C6060;
+    font-family: 'Montserrat', sans-serif;   
+}
+
+p {    
+    font-size: 1.2rem;
+    line-height: 1.8;    
+}
+
+hr {    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #b4c2c2;
+    border-width: 5px;
+    margin: 100px auto;
+    width: 3%;
+}
+
+.link-divider {
+    border: 1px solid #EAF6F6;
+    border-style: inset;
+    width: 100%;
+    margin: 0;
+}
+
+.avatar-img {
+    height: 200px;
+    width: auto;
+    
+}
+
+.skills-img {
+    height: 150px;
+    width: auto;
+}
+
+.btn {
+  background: #1C6060;
+  border-radius: 999px;
+  box-shadow: #1C6060 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px; 
+  font-weight: 400;
+}
+
+.btn:hover {
+    background-color: #e4e9e9;
+    color: #1C6060;
+}
+
+#footer {
+    background-color: #498080;
+    color: #e4e9e9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color:#0E3030;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+#footer p {
+    font-weight: 300;
+    font-size: 0.8rem;
+}
